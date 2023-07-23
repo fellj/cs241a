@@ -20,7 +20,6 @@ These assignments are meant to be turned in for a grade and demonstrate the stud
 
 ## Revision History
 
-|--------|---------------|--------------|----------|
 |Author|Description|Version|Date|
 |--------|---------------|--------------|----------|
 |John W. Fell|Initial launch|1.0.0|07/23/23|
